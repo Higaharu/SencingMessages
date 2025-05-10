@@ -147,7 +147,7 @@ This application was developed as part of HCI (Human-Computer Interaction) resea
 
 | Home Screen | Chat Screen | Emotion Selector |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Home Screen](docs/screenshots/home_screen.png) | ![Chat Screen](docs/screenshots/chat_screen.png) | ![Emotion Selector](docs/screenshots/emotion_selector.png) |
+| ![Home Screen](SencingMessages/docs/screenshots/home_screen.png) | ![Chat Screen](SencingMessages/docs/screenshots/chat_screen.png) | ![Emotion Selector](SencingMessages/docs/screenshots/emotion_selector.png) |
 
 ### Technology Stack
 
