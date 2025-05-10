@@ -29,7 +29,7 @@ Sencing Messages（センシングメッセージ）は、感情を色や動き�
 
 | ホーム画面 | チャット画面 | 感情選択画面 |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![ホーム画面](docs/screenshots/home_screen.png) | ![チャット画面](docs/screenshots/chat_screen.png) | ![感情選択画面](docs/screenshots/emotion_selector.png) |
+| ![ホーム画面](SencingMessages/docs/screenshots/home_screen.png) | ![チャット画面](SencingMessages/docs/screenshots/chat_screen.png) | ![感情選択画面](SencingMessages/docs/screenshots/emotion_selector.png) |
 
 ### 技術スタック
 
