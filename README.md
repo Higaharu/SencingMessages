@@ -1,7 +1,7 @@
 # Sencing Messages | 感情を色と動きで表現する非言語チャットアプリ
 
 <div align="center">
-  <img src="assets/icon.png" alt="Sencing Messages Logo" width="200"/>
+  <img src="assets/icon2.png" alt="Sencing Messages Logo" width="200"/>
   <p>
     <em>感情をカラフルに伝える次世代チャットアプリケーション</em>
   </p>
